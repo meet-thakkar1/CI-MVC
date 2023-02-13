@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "f31SjeS0Zo1lEqz2Ifo1IDG/B2Xbxtz2aUMtsV4e9mc=",
+  "Hash": "T/CWGYqBPN6UtzWcd+xUcoAZFp10pAOsJO+KC6cv2u8=",
   "Source": "CI_Plateform_Web",
   "BasePath": "_content/CI_Plateform_Web",
   "Mode": "Default",
@@ -66,6 +66,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\login.css"
+    },
+    {
+      "Identity": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\css\\newpass.css",
+      "SourceId": "CI_Plateform_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\",
+      "BasePath": "_content/CI_Plateform_Web",
+      "RelativePath": "css/newpass.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\newpass.css"
+    },
+    {
+      "Identity": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\css\\Register.css",
+      "SourceId": "CI_Plateform_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\",
+      "BasePath": "_content/CI_Plateform_Web",
+      "RelativePath": "css/Register.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Register.css"
     },
     {
       "Identity": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\favicon.ico",

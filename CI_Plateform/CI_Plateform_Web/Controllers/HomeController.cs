@@ -26,6 +26,10 @@ namespace CI_Plateform_Web.Controllers
         {
             return View();
         }
+        public IActionResult NewPassword()
+        {
+            return View();
+        }
         public IActionResult Privacy()
         {
             return View();

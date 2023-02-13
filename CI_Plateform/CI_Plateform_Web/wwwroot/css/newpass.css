@@ -1,0 +1,76 @@
+.btn{
+    width: 100%;
+    border: 1px solid #F88634;
+    color: #F88634;
+    background-color: #fff;
+    border-radius: 23px;
+}
+
+.btn:hover{
+    background-color: #fff;
+    color: #F88634;
+    border: 1px solid #F88634;
+}
+
+
+
+
+.carousel-caption{
+    text-align: left;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+.form-control{
+    color: #414141;
+}
+
+.losttext{
+    color: #414141;
+}
+.lost{
+    text-align: center;
+}
+.losttext-1{
+    color: #414141;
+    font-size: 0.8rem;
+}
+
+.lost a{
+    text-decoration: none;
+}
+.sp1{
+    display: none;
+}
+@media screen and (max-width:1070px){
+   .sp1{
+       display: inline;
+   } 
+}
+.carousel-item img{
+    filter: brightness(60%);
+}
+
+
+/* CSS FILE FOR FORGOT PASSWORD */
+.fg-psw-label{
+    color:#414141;
+    font-size: 22px;
+    
+}
+.label{
+    text-align: center;
+}
+.label2{
+    color:#414141;
+    font-size: 10px;
+}
+
+
+/* CSS FOR REGISTER */
+
+.login-newps{
+    color: #414141;
+    text-decoration: none;
+    font-size: 14px;
+}
