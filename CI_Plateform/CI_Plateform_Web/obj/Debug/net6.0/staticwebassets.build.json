@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T/CWGYqBPN6UtzWcd+xUcoAZFp10pAOsJO+KC6cv2u8=",
+  "Hash": "EmDw/RFc0CZmXkCc6p/zBlavmKuEn4gkMNYjUS7iC6k=",
   "Source": "CI_Plateform_Web",
   "BasePath": "_content/CI_Plateform_Web",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CI_Plateform_Web.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\css\\LandingPage.css",
+      "SourceId": "CI_Plateform_Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\",
+      "BasePath": "_content/CI_Plateform_Web",
+      "RelativePath": "css/LandingPage.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\LandingPage.css"
     },
     {
       "Identity": "D:\\Main-Project\\CI_Plateform\\CI_Plateform_Web\\wwwroot\\css\\login.css",

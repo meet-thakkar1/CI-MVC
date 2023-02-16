@@ -1,0 +1,135 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.btnbtn{
+    display: none;
+}
+.fcolor:hover{
+    color: #333333;
+    text-decoration: none;
+}
+.fcolor{
+    color: #333333;
+    text-decoration: none;
+}
+.imgicon{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.Image_icondiv{
+    align-items: center;
+    min-width: 175px;
+    margin-left: auto;
+    padding-right: 0px;
+}
+.line{
+    width: 100vw;
+
+}
+.searchicon{
+    width:20px;
+    height:20px;
+}
+.searchtext{
+    outline: none;
+    border-style: none;
+    color: #333333;
+    width: 45vw;
+
+}
+
+/* .searchtext :hover{
+    color: #333333;
+    border-style: none;
+    
+} */
+
+.dropdiv{
+    border:0.5px  solid;
+    border-top: none;
+    border-bottom: none;
+    border-color: rgba(51, 51, 51, 0.1);
+    height: 78px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.togglesidebar{
+    width:50px;
+    height:50px;
+    display: none;
+}
+@media screen and (max-width:991px){
+    *{
+       
+    }
+.dropdiv1{
+    border:0.5px  solid;
+    border-top: none;
+    border-bottom: none;
+    border-color: rgba(51, 51, 51, 0.1);
+    height: 78px;
+    display: flex;
+    align-items: center;
+   
+
+}
+
+.dropdiv{
+    border:0.5px  solid;
+    border-top: none;
+    
+    border-color: rgba(51, 51, 51, 0.1);
+    height: 78px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.hlinetogle{
+    display: inline;
+}
+.line2{
+    width: 100vw;
+    /* height: 0.5px;
+    background:rgba(51, 51, 51, 0.1); */
+}
+}
+
+@media screen and (max-width:767px){
+    .dropdiv{
+        height: 65px;;
+    }
+    .secondnav{
+        height: 65px;
+    }
+    
+}
+@media screen and (max-width:575px){
+    .dropdiv{
+        height:50px;
+    }
+    .secondnav{
+        height: 50px;
+    }
+    .togglesidebar{
+
+       
+
+        display:block;
+    }
+}
+.secondnav{
+    height: 78px;
+}
+.line2{
+    width: 100vw;
+    height: 3px;
+    background:rgba(51, 51, 51, 0.1);
+}
